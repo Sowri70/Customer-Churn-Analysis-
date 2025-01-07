@@ -1,7 +1,9 @@
 Overview
 This project focuses on analyzing customer churn for a business (subscription-based services). 
 
-Customer churn refers to the rate at which customers stop doing business with a company. The analysis aims to identify patterns and key factors influencing customer churn. By using machine learning algorithms and data exploration techniques, this project predicts which customers are likely to churn, enabling businesses to take proactive measures to reduce churn and improve customer retention.
+Customer churn refers to the rate at which customers stop doing business with a company. The analysis aims to identify patterns and key factors influencing customer churn. 
+By using machine learning algorithms and data exploration techniques, this project predicts which customers are likely to churn, enabling businesses to take proactive measures 
+to reduce churn and improve customer retention.
 
 Objective
 Predict customer churn: Build a model to identify customers who are at risk of leaving the company.
@@ -28,8 +30,8 @@ Feature scaling: Scaling continuous variables (e.g., age, tenure) using normaliz
 
 2. Exploratory Data Analysis (EDA)
 Descriptive statistics: Generate summary statistics to understand the central tendency, spread, and distribution of the data.
-Visualization: Create visualizations (e.g., histograms, boxplots, correlation heatmaps) to identify patterns and relationships between features.
-Churn Distribution: Analyze churn distribution across different customer attributes (e.g., plan type, tenure).
+Visualization: Create visualizations (histograms, line charts, boxplots, correlation) to identify patterns and relationships between features.
+Churn Distribution: Analyze churn distribution across different customer attributes (gender/plan/tenure type).
 
 3. Feature Engineering
 New features: Based on insights from the EDA, new features may be created (e.g., "customer satisfaction index" based on the number of complaints).
